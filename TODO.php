@@ -9,7 +9,7 @@
   <div class="form-check">
       <input class="form-check-input" type="checkbox" value="" id="1" checked>
       <label class="form-1-label" for="1">
-          Авторизация (логин пароль хранить в php) (ajax) <br> Хранится в MySQL
+          Авторизация (логин пароль хранить в php, ajax) <br> Хранится в MySQL
       </label>
   </div>
   <div class="form-check">
